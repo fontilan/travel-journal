@@ -21,6 +21,12 @@ body {
   font-size: 12px;
 }
 
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -106,6 +112,7 @@ body {
 }
 
 footer {
+  margin-top: auto;
   background-color: #2b283a;
   color: #ffffff;
   padding: 10px;
