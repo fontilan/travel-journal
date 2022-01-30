@@ -28,7 +28,12 @@ function Card(props) {
         <p className="card__description">{props.item.description}</p>
         <p className="gray">
           Photo by{" "}
-          <a href={props.item.photoCreditLink} target="_blank" rel="noreferrer">
+          <a
+            href={props.item.photoCreditLink}
+            target="_blank"
+            rel="noreferrer"
+            className="gray"
+          >
             {props.item.photoCreditName}
           </a>
         </p>
