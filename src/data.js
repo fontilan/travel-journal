@@ -9,6 +9,17 @@ const locationData = [
       "Mount Fuji (富士山, Fujisan), located on the island of Honshū, is the highest mountain in Japan, standing 3,776.24 m (12,389.2 ft). It is the second-highest volcano located on an island in Asia (after Mount Kerinci on the island of Sumatra), and seventh-highest peak of an island on Earth.",
     imageUrl: "japan.png",
   },
+
+  {
+    title: "Sagrada Família",
+    location: "SPAIN",
+    googleMapsUrl: "https://goo.gl/maps/bimMJ4sPJcpkdgkd9",
+    startDate: "10 Mar, 2021",
+    endDate: "14 Mar, 2021",
+    description:
+      "The Basílica i Temple Expiatori de la Sagrada Família also known as the Sagrada Família, is a large unfinished minor basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí (1852–1926), his work on the building is part of a UNESCO World Heritage Site. On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a minor basilica.",
+    imageUrl: "sagrada.png",
+  },
   {
     title: "Sydney Opera House",
     location: "AUSTRALIA",
@@ -20,10 +31,20 @@ const locationData = [
     imageUrl: "sydney.png",
   },
   {
+    title: "Space Needle",
+    location: "USA",
+    googleMapsUrl: "https://goo.gl/maps/B3cTZiMFDjHRb8DU8",
+    startDate: "06 Jul, 2021",
+    endDate: "01 Aug, 2021",
+    description:
+      "The Space Needle is an observation tower in Seattle, Washington, United States. Considered to be an icon of the city and the Pacific Northwest, it has been designated a Seattle landmark. Located in the Lower Queen Anne neighborhood, it was built in the Seattle Center for the 1962 World's Fair, which drew over 2.3 million visitors.",
+    imageUrl: "needle.png",
+  },
+  {
     title: "Geirangerfjord",
     location: "NORWAY",
     googleMapsUrl: "https://goo.gl/maps/YmjVSwEUUoRLCiEe8",
-    startDate: "01 Oct, 2021",
+    startDate: "10 Oct, 2021",
     endDate: "18 Nov, 2021",
     description:
       "The Geiranger Fjord (Norwegian: Geirangerfjorden) is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality. It is a 15-kilometre-long (9 1⁄2 mi) branch off the Sunnylvsfjorden, which is a branch off the Storfjorden (Great Fjord). The small village of Geiranger is located at the end of the fjord where the Geirangelva river empties into it.",
