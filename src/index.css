@@ -21,12 +21,6 @@ body {
   font-size: 12px;
 }
 
-.App {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
 .header {
   display: flex;
   align-items: center;
@@ -56,7 +50,7 @@ body {
 .card {
   display: flex;
   padding: 2em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .card__image-container {
@@ -102,6 +96,7 @@ body {
   margin-top: 0;
   font-weight: 900;
   font-size: 30px;
+  letter-spacing: -1px;
 }
 
 .card__date {
@@ -113,7 +108,7 @@ body {
 }
 
 footer {
-  margin-top: auto;
+  margin-top: 1em;
   background-color: #2b283a;
   color: #ffffff;
   padding: 10px;
