@@ -26,6 +26,12 @@ function Card(props) {
           {props.item.startDate} — {props.item.endDate}
         </p>
         <p className="card__description">{props.item.description}</p>
+        <p className="gray">
+          Photo by{" "}
+          <a href={props.item.photoCreditLink} target="_blank" rel="noreferrer">
+            {props.item.photoCreditName}
+          </a>
+        </p>
       </div>
     </div>
   );
