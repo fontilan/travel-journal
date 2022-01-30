@@ -91,10 +91,10 @@ body {
 .card__country {
   letter-spacing: 2px;
   margin-left: 5px;
+  margin-right: 20px;
 }
 
 .gray {
-  margin-left: 20px;
   color: #918e9b;
 }
 
@@ -113,6 +113,8 @@ body {
 
 .card__description {
   line-height: 1.4;
+
+  margin-bottom: 0;
 }
 
 footer {
