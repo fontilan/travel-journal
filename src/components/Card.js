@@ -4,7 +4,8 @@ function Card(props) {
       <div className="card__image-container">
         <img
           className="card__image"
-          src={props.item.imageUrl}
+          src={`images/${props.item.imageUrl}`}
+          // src={props.item.imageUrl}
           alt={props.item.title}
         />
       </div>
