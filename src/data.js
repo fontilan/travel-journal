@@ -49,7 +49,7 @@ const locationData = [
       "The Space Needle is an observation tower in Seattle, Washington, United States. Considered to be an icon of the city and the Pacific Northwest, it has been designated a Seattle landmark. Located in the Lower Queen Anne neighborhood, it was built in the Seattle Center for the 1962 World's Fair, which drew over 2.3 million visitors.",
     imageUrl: "https://images.unsplash.com/photo-1587245884519-3be9c15f3ed1",
     photoCreditName: "Cody Fitzgerald",
-    authorCreditLink: "https://unsplash.com/@cfitz",
+    photoCreditLink: "https://unsplash.com/@cfitz",
   },
   {
     title: "Geirangerfjord",
@@ -62,7 +62,7 @@ const locationData = [
     imageUrl:
       "https://images.unsplash.com/photo-1609864485895-0cdcfb877296?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     photoCreditName: "Bea Fladstad",
-    authorCreditLink: "https://unsplash.com/@beafladstad",
+    photoCreditLink: "https://unsplash.com/@beafladstad",
   },
 ];
 
