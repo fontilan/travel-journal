@@ -1,5 +1,3 @@
-// import sydney from "../images/japan.png";
-
 function Card(props) {
   return (
     <div className="card">
